@@ -13,7 +13,7 @@ int main() {
   printf("Digite dois números inteiros: ");
   scanf("%d %d", &a, &b);
 
-  printf("A soma é: \n", a + b);
+  printf("A soma é: %d\n", a + b);
 
   return 0;
 }
